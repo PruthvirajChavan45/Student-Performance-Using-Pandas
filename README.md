@@ -56,6 +56,7 @@ Student-Performance-Using-Pandas/
 - Pandas
 - NumPy
 - Google Colab
+- VS Code
 - Git & GitHub
 
 ---
